@@ -108,3 +108,5 @@ If you want to build the program using mono directly on your Raspberry Pi, then 
 
 at your command line, then assuming mono is installed correctly, you can run it just by running *./pid.exe*
 
+**Please note this has not been tested with dotnet core, however since it's fairly standard c# code (Dealing with files and general syntax) then it should work ok without too much of a problem**
+
