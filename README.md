@@ -38,7 +38,7 @@ pi@raspberrypi:~/$
 
 The second line from the bottom listed as *Revision* is the magic value, that tells you what type of RPi you have.
 
-There are a number of lists scattered around the internet, such as these 2 just as a starting example:
+There are a number of lists scattered around the internet, the following one is just a starting example:
 
 [Revision info at Raspberry Pi Spy](http://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-version/)
 
