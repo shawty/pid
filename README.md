@@ -42,8 +42,6 @@ There are a number of lists scattered around the internet, such as these 2 just 
 
 [Revision info at Raspberry Pi Spy](http://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-version/)
 
-[Revision info at Element 14](https://www.element14.com/community/community/raspberry-pi/blog/2016/11/21/how-to-identify-which-model-of-the-raspberry-pi-you-have)
-
 Every time I needed to detect my device, I had to go here to find the values, then use those values, eventually *pid* was born.
 
 #### How do I use it?
